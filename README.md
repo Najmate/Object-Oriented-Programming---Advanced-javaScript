@@ -1,1 +1,2 @@
-# Object-Oriented-Programming---Advanced-javaScript
+# Object-Oriented-Programming---Advanced
+Class in TypeScript
